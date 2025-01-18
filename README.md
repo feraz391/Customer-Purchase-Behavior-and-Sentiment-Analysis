@@ -114,7 +114,7 @@ This project involves three core components:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/RafiQamar/customer-purchase-analysis.git
+   git clone https://github.com/RafiQamar/Ecommerce-Analytics-Project.git
    ```
 
 2. Set up the MySQL database:
