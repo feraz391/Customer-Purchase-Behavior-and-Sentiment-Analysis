@@ -140,12 +140,14 @@ This project involves three core components:
 ├── data/
 │   ├── customer_purchase_data.csv          # Raw purchase data
 │   ├── customer_reviews_data.csv           # Raw review data
+│   ├── updated_reviews_data.csv           # updated review data
 ├── sql/
 │   ├── cust_pur_details.sql                # SQL script for database creation and transformation
 ├── notebooks/
 │   ├── Customer Purchase Behavior and Sentiment Analysis.ipynb  # Python notebook
 ├── dashboard/
 │   ├── Ecommerce Analytics Dashboard.pbix  # Power BI dashboard
+│   ├── Ecommerce Analytics Dashboard.pdf  # Power BI dashboard in pdf
 ├── README.md                               # Project description
 ```
 
