@@ -7,6 +7,14 @@ This repository hosts a comprehensive end-to-end project that analyzes customer 
 ### Objective
 The primary objective of this project is to identify patterns in customer purchase behavior and analyze customer sentiment based on product reviews. These insights will empower businesses to make informed decisions about marketing, product development, and customer engagement strategies.
 
+###
+
+<div align="center">
+  <img src="https://github.com/RafiQamar/Customer-Purchase-Behavior-and-Sentiment-Analysis/blob/main/Ecommerce%20Dashboard.gif?raw=true" height="300" alt="IMDB Dashboard gif" />
+</div>
+
+###
+
 ### Datasets
 
 1. **Customer Purchase Data:**
